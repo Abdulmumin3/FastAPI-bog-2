@@ -1,0 +1,5 @@
+fastapi
+bcrypt
+passlib
+uvicorn
+alembic
